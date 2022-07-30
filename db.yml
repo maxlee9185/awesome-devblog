@@ -6943,6 +6943,11 @@
   rss: https://rss.blog.naver.com/occidere.xml
   github: https://github.com/occidere
   description: Algorithms, Java, Linux, OpenSources
+- name: 이성현
+  blog: https://velog.io/@shmaxlee
+  linkedin: https://www.linkedin.com/in/seong-hyun-lee-64a631165/
+  instagram: https://www.instagram.com/shmaxlee/
+  description: Algorithms, Network, Linux, C, Flutter
 - name: 이성훈
   blog: https://brunch.co.kr/@jamess
   rss: https://brunch.co.kr/rss/@@2Jp
